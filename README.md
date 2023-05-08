@@ -11,6 +11,8 @@
     acquire new skills and stay abreast of the latest industry trends.
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mojaved&label=Profile%20views&color=0e75b6&style=flat" alt="mojaved" /> </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojaved&count_private=true&theme=synthwave) 
 
 <h2> Languages and Tools </h2>
