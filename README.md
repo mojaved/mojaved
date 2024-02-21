@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mojaved&" alt="mojaved" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojaved&count_private=true&theme=synthwave) 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojaved&count_private=true&theme=synthwave)-->
 
 <h2> Languages and Tools </h2>
 <p align="left">
